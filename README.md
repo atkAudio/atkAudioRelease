@@ -1,1 +1,1 @@
-atkAudio Release 1.19.0
+atkAudio Release 1.20.0
